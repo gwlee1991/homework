@@ -17,3 +17,6 @@ class Player
     end
   end
 end
+
+# side 1 => position (1..6)
+# side 2 => position (7..12)
