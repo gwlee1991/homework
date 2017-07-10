@@ -1,0 +1,26 @@
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: : 32px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FEFFF1;
+  line-height: 1.5;
+}
+
+.ingredients-list {
+  list-style:  square inside;
+}
+
+ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body > img {
+  width: 100px;
+}
