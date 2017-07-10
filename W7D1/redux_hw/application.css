@@ -18,3 +18,17 @@
 .rates-list {
   padding-top: 10px;
 }
+
+#root {
+  border: 1px solid black;
+  background-color: black;
+}
+
+div {
+  color: white;
+  width: 480px;
+}
+
+.currency-option {
+  width: 50px;
+}
